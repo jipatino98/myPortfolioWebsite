@@ -1,0 +1,15 @@
+.navbarWrapper {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+.navLinks {
+  text-decoration: none;
+  margin-right: 2.7rem;
+  color: var(--text-color);
+}
