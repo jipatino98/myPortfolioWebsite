@@ -1,0 +1,15 @@
+.headPhotoImg {
+  display: block;
+  max-width: 26.3rem;
+  border-radius: 0.94rem;
+}
+
+.mainContentWrapper {
+  background-color: lightblue;
+  display: flex;
+  justify-content: space-around;
+}
+
+.mainTextContent {
+  background-color: lightgreen;
+}
