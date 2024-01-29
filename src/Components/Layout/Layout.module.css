@@ -5,6 +5,7 @@
   --text-light: 200;
   --text-normal: 500;
   --text-bold: 700;
+  --text-primary: #f6b17a;
 }
 
 /* 1. Use a more-intuitive box-sizing model. */
